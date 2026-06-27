@@ -238,4 +238,4 @@ jobs:
       - name: Remove unused Docker images
         if: always()
         run: |
-          docker image prune -fw
+          docker image prune -f
