@@ -4,7 +4,9 @@
 A brief description of what this project does and who it's for
 
 Agentic-Chatbot-APP-CICD-Deployment-with-Github-Actions-on-AWS
-##  Description: About The Deployment 1. Build docker image of the source code
+##  Description: About The Deployment 
+
+1. Build docker image of the source code
 
 2. Push your docker image to docker hub
 
